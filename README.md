@@ -15,8 +15,8 @@ Hi, welcome to my GitHub profile! 👋
 
 #### 🔭 Latest releases I've contributed to
 
+- [jmederer/tf-plugin-mirror](https://github.com/jmederer/tf-plugin-mirror) ([latest](https://github.com/jmederer/tf-plugin-mirror/releases/tag/latest), today) - TF Plugin Mirror (for Air-Gapped Terraform Use) 
 - [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) ([helm-v2.1.5](https://github.com/bitnami-labs/sealed-secrets/releases/tag/helm-v2.1.5), 1 day ago) - A Kubernetes controller and tool for one-way encrypted Secrets
-- [jmederer/tf-plugin-mirror](https://github.com/jmederer/tf-plugin-mirror) ([latest](https://github.com/jmederer/tf-plugin-mirror/releases/tag/latest), 1 day ago) - TF Plugin Mirror (for Air-Gapped Terraform Use) 
 
 #### 🔨 My recent Pull Requests
 
