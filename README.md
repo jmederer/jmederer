@@ -15,12 +15,12 @@ Hi, welcome to my GitHub profile! 👋
 
 #### 🔭 Latest releases I've contributed to
 
-- [jmederer/tf-plugin-mirror](https://github.com/jmederer/tf-plugin-mirror) ([latest](https://github.com/jmederer/tf-plugin-mirror/releases/tag/latest), 2 days ago) - TF Plugin Mirror (for Air-Gapped Terraform Use) 
-- [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) ([helm-v2.1.5](https://github.com/bitnami-labs/sealed-secrets/releases/tag/helm-v2.1.5), 6 days ago) - A Kubernetes controller and tool for one-way encrypted Secrets
+- [jmederer/tf-plugin-mirror](https://github.com/jmederer/tf-plugin-mirror) ([latest](https://github.com/jmederer/tf-plugin-mirror/releases/tag/latest), 3 days ago) - TF Plugin Mirror (for Air-Gapped Terraform Use) 
+- [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) ([helm-v2.1.5](https://github.com/bitnami-labs/sealed-secrets/releases/tag/helm-v2.1.5), 1 week ago) - A Kubernetes controller and tool for one-way encrypted Secrets
 
 #### 🔨 My recent Pull Requests
 
-- [[bitnami/cassandra] Enable/Disable automountServiceAccountToken for STS](https://github.com/bitnami/charts/pull/9661) on [bitnami/charts](https://github.com/bitnami/charts) (5 days ago)
+- [[bitnami/cassandra] Enable/Disable automountServiceAccountToken for STS](https://github.com/bitnami/charts/pull/9661) on [bitnami/charts](https://github.com/bitnami/charts) (6 days ago)
 - [[bitnami/thanos] added Parameter for automountServiceAccountToken on …](https://github.com/bitnami/charts/pull/9590) on [bitnami/charts](https://github.com/bitnami/charts) (1 week ago)
 - [Added required resourceName to Role](https://github.com/bitnami-labs/sealed-secrets/pull/745) on [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) (1 month ago)
 - [[bitnami/drupal] Fix Variable for existing Secret of Drupal app](https://github.com/bitnami/charts/pull/7409) on [bitnami/charts](https://github.com/bitnami/charts) (7 months ago)
