@@ -33,7 +33,7 @@ Hi, welcome to my GitHub profile! 👋
 
 #### ⭐ Recent Stars
 
-- [TannerGabriel/learning-go](https://github.com/TannerGabriel/learning-go) - Projects, Algorithms and data structures implemented in Golang with explanations and links to further readings (2 weeks ago)
+- [TannerGabriel/learning-go](https://github.com/TannerGabriel/learning-go) - Projects, Algorithms and data structures implemented in Golang with explanations and links to further readings (3 weeks ago)
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at (2 years ago)
 - [k8s-nue-meetup/talks](https://github.com/k8s-nue-meetup/talks) - meta repository for all talks (3 years ago)
 - [stesie/kube-workshop](https://github.com/stesie/kube-workshop) -  (3 years ago)
@@ -41,7 +41,7 @@ Hi, welcome to my GitHub profile! 👋
 - [erroneousboat/slack-term](https://github.com/erroneousboat/slack-term) - Slack client for your terminal (3 years ago)
 - [hagen1778/grafana-import-export](https://github.com/hagen1778/grafana-import-export) - shell scripts for importing and exporting Grafana&#39;s dashboards and datasources (3 years ago)
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image (3 years ago)
-- [jkroepke/docker-backuppc](https://github.com/jkroepke/docker-backuppc) - Docker Container for BackupPC 4 (3 years ago)
+- [jkroepke/docker-backuppc](https://github.com/jkroepke/docker-backuppc) - Docker Container for BackupPC 4 (4 years ago)
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements. (6 years ago)
 
 #### 👯 Check out some of my recent followers
