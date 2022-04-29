@@ -15,12 +15,12 @@ Hi, welcome to my GitHub profile! 👋
 
 #### 🔭 Latest releases I've contributed to
 
-- [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) ([helm-v2.1.7](https://github.com/bitnami-labs/sealed-secrets/releases/tag/helm-v2.1.7), today) - A Kubernetes controller and tool for one-way encrypted Secrets
+- [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) ([helm-v2.1.7](https://github.com/bitnami-labs/sealed-secrets/releases/tag/helm-v2.1.7), 1 day ago) - A Kubernetes controller and tool for one-way encrypted Secrets
 - [jmederer/tf-plugin-mirror](https://github.com/jmederer/tf-plugin-mirror) ([latest](https://github.com/jmederer/tf-plugin-mirror/releases/tag/latest), 3 weeks ago) - TF Plugin Mirror (for Air-Gapped Terraform Use) 
 
 #### 🔨 My recent Pull Requests
 
-- [[bitnami/cassandra] Enable/Disable automountServiceAccountToken for STS](https://github.com/bitnami/charts/pull/9661) on [bitnami/charts](https://github.com/bitnami/charts) (3 weeks ago)
+- [[bitnami/cassandra] Enable/Disable automountServiceAccountToken for STS](https://github.com/bitnami/charts/pull/9661) on [bitnami/charts](https://github.com/bitnami/charts) (4 weeks ago)
 - [[bitnami/thanos] added Parameter for automountServiceAccountToken on …](https://github.com/bitnami/charts/pull/9590) on [bitnami/charts](https://github.com/bitnami/charts) (1 month ago)
 - [Added required resourceName to Role](https://github.com/bitnami-labs/sealed-secrets/pull/745) on [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) (2 months ago)
 - [[bitnami/drupal] Fix Variable for existing Secret of Drupal app](https://github.com/bitnami/charts/pull/7409) on [bitnami/charts](https://github.com/bitnami/charts) (7 months ago)
@@ -33,7 +33,7 @@ Hi, welcome to my GitHub profile! 👋
 
 #### ⭐ Recent Stars
 
-- [TannerGabriel/learning-go](https://github.com/TannerGabriel/learning-go) - Projects, Algorithms and data structures implemented in Golang with explanations and links to further readings (4 weeks ago)
+- [TannerGabriel/learning-go](https://github.com/TannerGabriel/learning-go) - Projects, Algorithms and data structures implemented in Golang with explanations and links to further readings (1 month ago)
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at (2 years ago)
 - [k8s-nue-meetup/talks](https://github.com/k8s-nue-meetup/talks) - meta repository for all talks (3 years ago)
 - [stesie/kube-workshop](https://github.com/stesie/kube-workshop) -  (3 years ago)
