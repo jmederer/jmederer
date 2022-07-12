@@ -28,7 +28,7 @@ Hi, welcome to my GitHub profile! 👋
 - [[bitnami/cassandra] Password Seeder fix for HOST Networking](https://github.com/bitnami/charts/pull/5697) on [bitnami/charts](https://github.com/bitnami/charts) (1 year ago)
 - [[bitnami/cassandra] Add Config Parameter for Host Network and HostPorts](https://github.com/bitnami/charts/pull/5203) on [bitnami/charts](https://github.com/bitnami/charts) (1 year ago)
 - [[bitnami/cassandra] Give the ability to add some extra seeds to Cassandra](https://github.com/bitnami/charts/pull/5172) on [bitnami/charts](https://github.com/bitnami/charts) (1 year ago)
-- [Update libcassandra.sh](https://github.com/bitnami/bitnami-docker-cassandra/pull/85) on [bitnami/bitnami-docker-cassandra](https://github.com/bitnami/bitnami-docker-cassandra) (1 year ago)
+- [Update libcassandra.sh](https://github.com/bitnami/bitnami-docker-cassandra/pull/85) on [bitnami/bitnami-docker-cassandra](https://github.com/bitnami/bitnami-docker-cassandra) (2 years ago)
 - [Update Packer to Version 0.11.0](https://github.com/adidas-dsop/alpine-packer/pull/1) on [adidas-dsop/alpine-packer](https://github.com/adidas-dsop/alpine-packer) (5 years ago)
 
 #### ⭐ Recent Stars
