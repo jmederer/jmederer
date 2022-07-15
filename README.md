@@ -15,7 +15,7 @@ Hi, welcome to my GitHub profile! 👋
 
 #### 🔭 Latest releases I've contributed to
 
-- [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) ([helm-v2.4.0](https://github.com/bitnami-labs/sealed-secrets/releases/tag/helm-v2.4.0), today) - A Kubernetes controller and tool for one-way encrypted Secrets
+- [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) ([helm-v2.4.0](https://github.com/bitnami-labs/sealed-secrets/releases/tag/helm-v2.4.0), 1 day ago) - A Kubernetes controller and tool for one-way encrypted Secrets
 - [jmederer/tf-plugin-mirror](https://github.com/jmederer/tf-plugin-mirror) ([latest](https://github.com/jmederer/tf-plugin-mirror/releases/tag/latest), 3 months ago) - TF Plugin Mirror (for Air-Gapped Terraform Use) 
 
 #### 🔨 My recent Pull Requests
@@ -27,7 +27,7 @@ Hi, welcome to my GitHub profile! 👋
 - [[bitnami/cassandra] Fix Values from Metrics Container set to the righ…](https://github.com/bitnami/charts/pull/5957) on [bitnami/charts](https://github.com/bitnami/charts) (1 year ago)
 - [[bitnami/cassandra] Password Seeder fix for HOST Networking](https://github.com/bitnami/charts/pull/5697) on [bitnami/charts](https://github.com/bitnami/charts) (1 year ago)
 - [[bitnami/cassandra] Add Config Parameter for Host Network and HostPorts](https://github.com/bitnami/charts/pull/5203) on [bitnami/charts](https://github.com/bitnami/charts) (1 year ago)
-- [[bitnami/cassandra] Give the ability to add some extra seeds to Cassandra](https://github.com/bitnami/charts/pull/5172) on [bitnami/charts](https://github.com/bitnami/charts) (1 year ago)
+- [[bitnami/cassandra] Give the ability to add some extra seeds to Cassandra](https://github.com/bitnami/charts/pull/5172) on [bitnami/charts](https://github.com/bitnami/charts) (2 years ago)
 - [Update libcassandra.sh](https://github.com/bitnami/bitnami-docker-cassandra/pull/85) on [bitnami/bitnami-docker-cassandra](https://github.com/bitnami/bitnami-docker-cassandra) (2 years ago)
 - [Update Packer to Version 0.11.0](https://github.com/adidas-dsop/alpine-packer/pull/1) on [adidas-dsop/alpine-packer](https://github.com/adidas-dsop/alpine-packer) (5 years ago)
 
