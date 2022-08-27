@@ -15,7 +15,7 @@ Hi, welcome to my GitHub profile! 👋
 
 #### 🔭 Latest releases I've contributed to
 
-- [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) ([helm-v2.6.1](https://github.com/bitnami-labs/sealed-secrets/releases/tag/helm-v2.6.1), 1 day ago) - A Kubernetes controller and tool for one-way encrypted Secrets
+- [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) ([helm-v2.6.1](https://github.com/bitnami-labs/sealed-secrets/releases/tag/helm-v2.6.1), 2 days ago) - A Kubernetes controller and tool for one-way encrypted Secrets
 - [jmederer/tf-plugin-mirror](https://github.com/jmederer/tf-plugin-mirror) ([latest](https://github.com/jmederer/tf-plugin-mirror/releases/tag/latest), 4 months ago) - TF Plugin Mirror (for Air-Gapped Terraform Use) 
 
 #### 🔨 My recent Pull Requests
@@ -25,7 +25,7 @@ Hi, welcome to my GitHub profile! 👋
 - [Added required resourceName to Role](https://github.com/bitnami-labs/sealed-secrets/pull/745) on [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) (6 months ago)
 - [[bitnami/drupal] Fix Variable for existing Secret of Drupal app](https://github.com/bitnami/charts/pull/7409) on [bitnami/charts](https://github.com/bitnami/charts) (11 months ago)
 - [[bitnami/cassandra] Fix Values from Metrics Container set to the righ…](https://github.com/bitnami/charts/pull/5957) on [bitnami/charts](https://github.com/bitnami/charts) (1 year ago)
-- [[bitnami/cassandra] Password Seeder fix for HOST Networking](https://github.com/bitnami/charts/pull/5697) on [bitnami/charts](https://github.com/bitnami/charts) (1 year ago)
+- [[bitnami/cassandra] Password Seeder fix for HOST Networking](https://github.com/bitnami/charts/pull/5697) on [bitnami/charts](https://github.com/bitnami/charts) (2 years ago)
 - [[bitnami/cassandra] Add Config Parameter for Host Network and HostPorts](https://github.com/bitnami/charts/pull/5203) on [bitnami/charts](https://github.com/bitnami/charts) (2 years ago)
 - [[bitnami/cassandra] Give the ability to add some extra seeds to Cassandra](https://github.com/bitnami/charts/pull/5172) on [bitnami/charts](https://github.com/bitnami/charts) (2 years ago)
 - [Update libcassandra.sh](https://github.com/bitnami/bitnami-docker-cassandra/pull/85) on [bitnami/bitnami-docker-cassandra](https://github.com/bitnami/bitnami-docker-cassandra) (2 years ago)
@@ -33,7 +33,7 @@ Hi, welcome to my GitHub profile! 👋
 
 #### ⭐ Recent Stars
 
-- [TannerGabriel/learning-go](https://github.com/TannerGabriel/learning-go) - Projects, Algorithms and data structures implemented in Golang with explanations and links to further readings (4 months ago)
+- [TannerGabriel/learning-go](https://github.com/TannerGabriel/learning-go) - Projects, Algorithms and data structures implemented in Golang with explanations and links to further readings (5 months ago)
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at (2 years ago)
 - [k8s-nue-meetup/talks](https://github.com/k8s-nue-meetup/talks) - meta repository for all talks (3 years ago)
 - [stesie/kube-workshop](https://github.com/stesie/kube-workshop) -  (3 years ago)
