@@ -20,6 +20,7 @@ Hi, welcome to my GitHub profile! 👋
 
 #### 🔨 My recent Pull Requests
 
+- [[bitnami/cassandra] metrics Container - extraVolumeMounts option added](https://github.com/bitnami/charts/pull/12231) on [bitnami/charts](https://github.com/bitnami/charts) (today)
 - [[bitnami/cassandra] Enable/Disable automountServiceAccountToken for STS](https://github.com/bitnami/charts/pull/9661) on [bitnami/charts](https://github.com/bitnami/charts) (5 months ago)
 - [[bitnami/thanos] added Parameter for automountServiceAccountToken on …](https://github.com/bitnami/charts/pull/9590) on [bitnami/charts](https://github.com/bitnami/charts) (5 months ago)
 - [Added required resourceName to Role](https://github.com/bitnami-labs/sealed-secrets/pull/745) on [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) (6 months ago)
@@ -29,7 +30,6 @@ Hi, welcome to my GitHub profile! 👋
 - [[bitnami/cassandra] Add Config Parameter for Host Network and HostPorts](https://github.com/bitnami/charts/pull/5203) on [bitnami/charts](https://github.com/bitnami/charts) (2 years ago)
 - [[bitnami/cassandra] Give the ability to add some extra seeds to Cassandra](https://github.com/bitnami/charts/pull/5172) on [bitnami/charts](https://github.com/bitnami/charts) (2 years ago)
 - [Update libcassandra.sh](https://github.com/bitnami/bitnami-docker-cassandra/pull/85) on [bitnami/bitnami-docker-cassandra](https://github.com/bitnami/bitnami-docker-cassandra) (2 years ago)
-- [Update Packer to Version 0.11.0](https://github.com/adidas-dsop/alpine-packer/pull/1) on [adidas-dsop/alpine-packer](https://github.com/adidas-dsop/alpine-packer) (5 years ago)
 
 #### ⭐ Recent Stars
 
