@@ -33,6 +33,7 @@ Hi, welcome to my GitHub profile! 👋
 
 #### ⭐ Recent Stars
 
+- [arjenvrh/audi_connect_ha](https://github.com/arjenvrh/audi_connect_ha) - Adds an audi connect integration to home assistant (today)
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals (3 months ago)
 - [TannerGabriel/learning-go](https://github.com/TannerGabriel/learning-go) - Projects, Algorithms and data structures implemented in Golang with explanations and links to further readings (8 months ago)
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at (3 years ago)
@@ -42,7 +43,6 @@ Hi, welcome to my GitHub profile! 👋
 - [jpbruinsslot/slack-term](https://github.com/jpbruinsslot/slack-term) - Slack client for your terminal (4 years ago)
 - [hagen1778/grafana-import-export](https://github.com/hagen1778/grafana-import-export) - shell scripts for importing and exporting Grafana&#39;s dashboards and datasources (4 years ago)
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image (4 years ago)
-- [jkroepke/docker-backuppc](https://github.com/jkroepke/docker-backuppc) - Docker Container for BackupPC 4 (4 years ago)
 
 #### 👯 Check out some of my recent followers
 
