@@ -22,7 +22,7 @@ Hi, welcome to my GitHub profile! 👋
 
 - [[bitnami/cassandra] ReadinessProbes Timeouts for Metrics Container are now configurable](https://github.com/bitnami/charts/pull/12351) on [bitnami/charts](https://github.com/bitnami/charts) (3 months ago)
 - [[bitnami/cassandra] metrics Container - extraVolumeMounts option added](https://github.com/bitnami/charts/pull/12231) on [bitnami/charts](https://github.com/bitnami/charts) (3 months ago)
-- [[bitnami/cassandra] Enable/Disable automountServiceAccountToken for STS](https://github.com/bitnami/charts/pull/9661) on [bitnami/charts](https://github.com/bitnami/charts) (8 months ago)
+- [[bitnami/cassandra] Enable/Disable automountServiceAccountToken for STS](https://github.com/bitnami/charts/pull/9661) on [bitnami/charts](https://github.com/bitnami/charts) (9 months ago)
 - [[bitnami/thanos] added Parameter for automountServiceAccountToken on …](https://github.com/bitnami/charts/pull/9590) on [bitnami/charts](https://github.com/bitnami/charts) (9 months ago)
 - [Added required resourceName to Role](https://github.com/bitnami-labs/sealed-secrets/pull/745) on [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) (10 months ago)
 - [[bitnami/drupal] Fix Variable for existing Secret of Drupal app](https://github.com/bitnami/charts/pull/7409) on [bitnami/charts](https://github.com/bitnami/charts) (1 year ago)
@@ -33,7 +33,7 @@ Hi, welcome to my GitHub profile! 👋
 
 #### ⭐ Recent Stars
 
-- [arjenvrh/audi_connect_ha](https://github.com/arjenvrh/audi_connect_ha) - Adds an audi connect integration to home assistant (3 days ago)
+- [arjenvrh/audi_connect_ha](https://github.com/arjenvrh/audi_connect_ha) - Adds an audi connect integration to home assistant (4 days ago)
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals (3 months ago)
 - [TannerGabriel/learning-go](https://github.com/TannerGabriel/learning-go) - Projects, Algorithms and data structures implemented in Golang with explanations and links to further readings (9 months ago)
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at (3 years ago)
