@@ -20,6 +20,7 @@ Hi, welcome to my GitHub profile! 👋
 
 #### 🔨 My recent Pull Requests
 
+- [[bitnami/cassandra] cassandra.yaml changed from 4 Spaces to 2 Spaces …](https://github.com/bitnami/containers/pull/21215) on [bitnami/containers](https://github.com/bitnami/containers) (today)
 - [[bitnami/cassandra] ReadinessProbes Timeouts for Metrics Container are now configurable](https://github.com/bitnami/charts/pull/12351) on [bitnami/charts](https://github.com/bitnami/charts) (4 months ago)
 - [[bitnami/cassandra] metrics Container - extraVolumeMounts option added](https://github.com/bitnami/charts/pull/12231) on [bitnami/charts](https://github.com/bitnami/charts) (4 months ago)
 - [[bitnami/cassandra] Enable/Disable automountServiceAccountToken for STS](https://github.com/bitnami/charts/pull/9661) on [bitnami/charts](https://github.com/bitnami/charts) (9 months ago)
@@ -29,7 +30,6 @@ Hi, welcome to my GitHub profile! 👋
 - [[bitnami/cassandra] Fix Values from Metrics Container set to the righ…](https://github.com/bitnami/charts/pull/5957) on [bitnami/charts](https://github.com/bitnami/charts) (2 years ago)
 - [[bitnami/cassandra] Password Seeder fix for HOST Networking](https://github.com/bitnami/charts/pull/5697) on [bitnami/charts](https://github.com/bitnami/charts) (2 years ago)
 - [[bitnami/cassandra] Add Config Parameter for Host Network and HostPorts](https://github.com/bitnami/charts/pull/5203) on [bitnami/charts](https://github.com/bitnami/charts) (2 years ago)
-- [[bitnami/cassandra] Give the ability to add some extra seeds to Cassandra](https://github.com/bitnami/charts/pull/5172) on [bitnami/charts](https://github.com/bitnami/charts) (2 years ago)
 
 #### ⭐ Recent Stars
 
