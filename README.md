@@ -15,12 +15,12 @@ Hi, welcome to my GitHub profile! 👋
 
 #### 🔭 Latest releases I've contributed to
 
-- [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) ([helm-v2.7.3](https://github.com/bitnami-labs/sealed-secrets/releases/tag/helm-v2.7.3), 6 days ago) - A Kubernetes controller and tool for one-way encrypted Secrets
+- [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) ([helm-v2.7.3](https://github.com/bitnami-labs/sealed-secrets/releases/tag/helm-v2.7.3), 1 week ago) - A Kubernetes controller and tool for one-way encrypted Secrets
 - [jmederer/tf-plugin-mirror](https://github.com/jmederer/tf-plugin-mirror) ([latest](https://github.com/jmederer/tf-plugin-mirror/releases/tag/latest), 2 months ago) - TF Plugin Mirror (for Air-Gapped Terraform Use) 
 
 #### 🔨 My recent Pull Requests
 
-- [[bitnami/cassandra] cassandra.yaml changed from 4 Spaces to 2 Spaces in V4.1](https://github.com/bitnami/containers/pull/21215) on [bitnami/containers](https://github.com/bitnami/containers) (2 days ago)
+- [[bitnami/cassandra] cassandra.yaml changed from 4 Spaces to 2 Spaces in V4.1](https://github.com/bitnami/containers/pull/21215) on [bitnami/containers](https://github.com/bitnami/containers) (3 days ago)
 - [[bitnami/cassandra] ReadinessProbes Timeouts for Metrics Container are now configurable](https://github.com/bitnami/charts/pull/12351) on [bitnami/charts](https://github.com/bitnami/charts) (4 months ago)
 - [[bitnami/cassandra] metrics Container - extraVolumeMounts option added](https://github.com/bitnami/charts/pull/12231) on [bitnami/charts](https://github.com/bitnami/charts) (4 months ago)
 - [[bitnami/cassandra] Enable/Disable automountServiceAccountToken for STS](https://github.com/bitnami/charts/pull/9661) on [bitnami/charts](https://github.com/bitnami/charts) (9 months ago)
