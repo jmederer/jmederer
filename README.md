@@ -12,7 +12,6 @@ Hi, welcome to my GitHub profile! 👋
 - [bitnami/containers](https://github.com/bitnami/containers) - Bitnami container images (3 weeks ago)
 - [jmederer/tf-plugin-mirror](https://github.com/jmederer/tf-plugin-mirror) - TF Plugin Mirror (for Air-Gapped Terraform Use)  (3 months ago)
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (5 months ago)
-- [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
