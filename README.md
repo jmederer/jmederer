@@ -9,7 +9,7 @@ Hi, welcome to my GitHub profile! 👋
 
 #### 👷 Check out what I'm currently working on
 
-- [bitnami/containers](https://github.com/bitnami/containers) - Bitnami container images (4 weeks ago)
+- [bitnami/containers](https://github.com/bitnami/containers) - Bitnami container images (1 month ago)
 - [jmederer/tf-plugin-mirror](https://github.com/jmederer/tf-plugin-mirror) - TF Plugin Mirror (for Air-Gapped Terraform Use)  (3 months ago)
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (5 months ago)
 
@@ -36,7 +36,7 @@ Hi, welcome to my GitHub profile! 👋
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals (5 months ago)
 - [TannerGabriel/learning-go](https://github.com/TannerGabriel/learning-go) - Projects, Algorithms and data structures implemented in Golang with explanations and links to further readings (11 months ago)
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at (3 years ago)
-- [k8s-nue-meetup/talks](https://github.com/k8s-nue-meetup/talks) - meta repository for all talks (3 years ago)
+- [k8s-nue-meetup/talks](https://github.com/k8s-nue-meetup/talks) - meta repository for all talks (4 years ago)
 - [stesie/kube-workshop](https://github.com/stesie/kube-workshop) -  (4 years ago)
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands (4 years ago)
 - [jpbruinsslot/slack-term](https://github.com/jpbruinsslot/slack-term) - Slack client for your terminal (4 years ago)
