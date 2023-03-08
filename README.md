@@ -9,9 +9,9 @@ Hi, welcome to my GitHub profile! 👋
 
 #### 👷 Check out what I'm currently working on
 
+- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (today)
 - [bitnami/containers](https://github.com/bitnami/containers) - Bitnami container images (1 month ago)
 - [jmederer/tf-plugin-mirror](https://github.com/jmederer/tf-plugin-mirror) - TF Plugin Mirror (for Air-Gapped Terraform Use)  (3 months ago)
-- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
