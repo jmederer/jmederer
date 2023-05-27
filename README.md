@@ -10,7 +10,7 @@ Hi, welcome to my GitHub profile! 👋
 #### 👷 Check out what I'm currently working on
 
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (1 month ago)
-- [bitnami/containers](https://github.com/bitnami/containers) - Bitnami container images (3 months ago)
+- [bitnami/containers](https://github.com/bitnami/containers) - Bitnami container images (4 months ago)
 - [jmederer/tf-plugin-mirror](https://github.com/jmederer/tf-plugin-mirror) - TF Plugin Mirror (for Air-Gapped Terraform Use)  (6 months ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -32,7 +32,7 @@ Hi, welcome to my GitHub profile! 👋
 
 #### ⭐ Recent Stars
 
-- [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS. (4 days ago)
+- [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS. (5 days ago)
 - [arjenvrh/audi_connect_ha](https://github.com/arjenvrh/audi_connect_ha) - Adds an audi connect integration to home assistant (5 months ago)
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals (8 months ago)
 - [TannerGabriel/learning-go](https://github.com/TannerGabriel/learning-go) - Projects, Algorithms and data structures implemented in Golang with explanations and links to further readings (1 year ago)
