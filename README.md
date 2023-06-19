@@ -21,7 +21,7 @@ Hi, welcome to my GitHub profile! 👋
 
 - [[bitnami/cassandra] Disable Prompt at keystoreimport (init-certs)](https://github.com/bitnami/charts/pull/15803) on [bitnami/charts](https://github.com/bitnami/charts) (2 months ago)
 - [[bitnami/cassandra] set sizeLimit only for certs-shared emptyDir](https://github.com/bitnami/charts/pull/15315) on [bitnami/charts](https://github.com/bitnami/charts) (3 months ago)
-- [[bitnami/cassandra] cassandra.yaml changed from 4 Spaces to 2 Spaces in V4.1](https://github.com/bitnami/containers/pull/21215) on [bitnami/containers](https://github.com/bitnami/containers) (4 months ago)
+- [[bitnami/cassandra] cassandra.yaml changed from 4 Spaces to 2 Spaces in V4.1](https://github.com/bitnami/containers/pull/21215) on [bitnami/containers](https://github.com/bitnami/containers) (5 months ago)
 - [[bitnami/cassandra] ReadinessProbes Timeouts for Metrics Container are now configurable](https://github.com/bitnami/charts/pull/12351) on [bitnami/charts](https://github.com/bitnami/charts) (9 months ago)
 - [[bitnami/cassandra] metrics Container - extraVolumeMounts option added](https://github.com/bitnami/charts/pull/12231) on [bitnami/charts](https://github.com/bitnami/charts) (9 months ago)
 - [[bitnami/cassandra] Enable/Disable automountServiceAccountToken for STS](https://github.com/bitnami/charts/pull/9661) on [bitnami/charts](https://github.com/bitnami/charts) (1 year ago)
@@ -32,8 +32,8 @@ Hi, welcome to my GitHub profile! 👋
 
 #### ⭐ Recent Stars
 
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 week ago)
-- [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS. (3 weeks ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 weeks ago)
+- [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS. (4 weeks ago)
 - [arjenvrh/audi_connect_ha](https://github.com/arjenvrh/audi_connect_ha) - Adds an audi connect integration to home assistant (5 months ago)
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals (9 months ago)
 - [TannerGabriel/learning-go](https://github.com/TannerGabriel/learning-go) - Projects, Algorithms and data structures implemented in Golang with explanations and links to further readings (1 year ago)
