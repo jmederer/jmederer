@@ -23,7 +23,7 @@ Hi, welcome to my GitHub profile! 👋
 - [[bitnami/cassandra] set sizeLimit only for certs-shared emptyDir](https://github.com/bitnami/charts/pull/15315) on [bitnami/charts](https://github.com/bitnami/charts) (3 months ago)
 - [[bitnami/cassandra] cassandra.yaml changed from 4 Spaces to 2 Spaces in V4.1](https://github.com/bitnami/containers/pull/21215) on [bitnami/containers](https://github.com/bitnami/containers) (5 months ago)
 - [[bitnami/cassandra] ReadinessProbes Timeouts for Metrics Container are now configurable](https://github.com/bitnami/charts/pull/12351) on [bitnami/charts](https://github.com/bitnami/charts) (9 months ago)
-- [[bitnami/cassandra] metrics Container - extraVolumeMounts option added](https://github.com/bitnami/charts/pull/12231) on [bitnami/charts](https://github.com/bitnami/charts) (9 months ago)
+- [[bitnami/cassandra] metrics Container - extraVolumeMounts option added](https://github.com/bitnami/charts/pull/12231) on [bitnami/charts](https://github.com/bitnami/charts) (10 months ago)
 - [[bitnami/cassandra] Enable/Disable automountServiceAccountToken for STS](https://github.com/bitnami/charts/pull/9661) on [bitnami/charts](https://github.com/bitnami/charts) (1 year ago)
 - [[bitnami/thanos] added Parameter for automountServiceAccountToken on …](https://github.com/bitnami/charts/pull/9590) on [bitnami/charts](https://github.com/bitnami/charts) (1 year ago)
 - [Added required resourceName to Role](https://github.com/bitnami-labs/sealed-secrets/pull/745) on [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) (1 year ago)
