@@ -11,11 +11,11 @@ Hi, welcome to my GitHub profile! 👋
 
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (5 months ago)
 - [bitnami/containers](https://github.com/bitnami/containers) - Bitnami container images (7 months ago)
-- [jmederer/tf-plugin-mirror](https://github.com/jmederer/tf-plugin-mirror) - TF Plugin Mirror (for Air-Gapped Terraform Use)  (9 months ago)
+- [jmederer/tf-plugin-mirror](https://github.com/jmederer/tf-plugin-mirror) - TF Plugin Mirror (for Air-Gapped Terraform Use)  (10 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jmederer/tf-plugin-mirror](https://github.com/jmederer/tf-plugin-mirror) ([latest](https://github.com/jmederer/tf-plugin-mirror/releases/tag/latest), 9 months ago) - TF Plugin Mirror (for Air-Gapped Terraform Use) 
+- [jmederer/tf-plugin-mirror](https://github.com/jmederer/tf-plugin-mirror) ([latest](https://github.com/jmederer/tf-plugin-mirror/releases/tag/latest), 10 months ago) - TF Plugin Mirror (for Air-Gapped Terraform Use) 
 
 #### 🔨 My recent Pull Requests
 
