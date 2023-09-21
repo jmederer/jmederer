@@ -36,7 +36,7 @@ Hi, welcome to my GitHub profile! 👋
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS. (4 months ago)
 - [arjenvrh/audi_connect_ha](https://github.com/arjenvrh/audi_connect_ha) - Adds an audi connect integration to home assistant (9 months ago)
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals (1 year ago)
-- [TannerGabriel/learning-go](https://github.com/TannerGabriel/learning-go) - Projects, Algorithms and data structures implemented in Golang with explanations and links to further readings (1 year ago)
+- [TannerGabriel/learning-go](https://github.com/TannerGabriel/learning-go) - Projects, Algorithms and data structures implemented in Golang with explanations and links to further readings (2 years ago)
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at (3 years ago)
 - [k8s-nue-meetup/talks](https://github.com/k8s-nue-meetup/talks) - meta repository for all talks (4 years ago)
 - [stesie/kube-workshop](https://github.com/stesie/kube-workshop) -  (4 years ago)
