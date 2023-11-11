@@ -15,7 +15,6 @@ Hi, welcome to my GitHub profile! 👋
 
 #### 🔭 Latest releases I've contributed to
 
-- [jmederer/tf-plugin-mirror](https://github.com/jmederer/tf-plugin-mirror) ([latest](https://github.com/jmederer/tf-plugin-mirror/releases/tag/latest), 1 year ago) - TF Plugin Mirror (for Air-Gapped Terraform Use) 
 
 #### 🔨 My recent Pull Requests
 
