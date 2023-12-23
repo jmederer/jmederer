@@ -10,7 +10,7 @@ Hi, welcome to my GitHub profile! 👋
 #### 👷 Check out what I'm currently working on
 
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (8 months ago)
-- [bitnami/containers](https://github.com/bitnami/containers) - Bitnami container images (10 months ago)
+- [bitnami/containers](https://github.com/bitnami/containers) - Bitnami container images (11 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
