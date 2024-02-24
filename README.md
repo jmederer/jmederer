@@ -9,7 +9,7 @@ Hi, welcome to my GitHub profile! 👋
 
 #### 👷 Check out what I'm currently working on
 
-- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (10 months ago)
+- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (11 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
