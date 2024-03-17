@@ -42,11 +42,11 @@ Hi, welcome to my GitHub profile! 👋
 
 #### 👯 Check out some of my recent followers
 
-- [Baranthir](https://github.com/Baranthir)
 - [ph311o](https://github.com/ph311o)
 - [nce](https://github.com/nce)
 - [nikolausschueler](https://github.com/nikolausschueler)
 - [mcsage](https://github.com/mcsage)
+- [daugustin](https://github.com/daugustin)
 
 #### 💬 Feedback
 
