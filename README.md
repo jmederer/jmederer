@@ -15,6 +15,7 @@ Hi, welcome to my GitHub profile! 👋
 
 #### 🔨 My recent Pull Requests
 
+- [feat(token): automountServiceAccountToken set hard to true on deployment](https://github.com/kubernetes-sigs/descheduler/pull/1641) on [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) (today)
 - [[bitnami/cassandra] Disable Prompt at keystoreimport (init-certs)](https://github.com/bitnami/charts/pull/15803) on [bitnami/charts](https://github.com/bitnami/charts) (2 years ago)
 - [[bitnami/cassandra] set sizeLimit only for certs-shared emptyDir](https://github.com/bitnami/charts/pull/15315) on [bitnami/charts](https://github.com/bitnami/charts) (2 years ago)
 - [[bitnami/cassandra] cassandra.yaml changed from 4 Spaces to 2 Spaces in V4.1](https://github.com/bitnami/containers/pull/21215) on [bitnami/containers](https://github.com/bitnami/containers) (2 years ago)
@@ -24,7 +25,6 @@ Hi, welcome to my GitHub profile! 👋
 - [[bitnami/thanos] added Parameter for automountServiceAccountToken on …](https://github.com/bitnami/charts/pull/9590) on [bitnami/charts](https://github.com/bitnami/charts) (2 years ago)
 - [Added required resourceName to Role](https://github.com/bitnami-labs/sealed-secrets/pull/745) on [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) (3 years ago)
 - [[bitnami/drupal] Fix Variable for existing Secret of Drupal app](https://github.com/bitnami/charts/pull/7409) on [bitnami/charts](https://github.com/bitnami/charts) (3 years ago)
-- [[bitnami/cassandra] Fix Values from Metrics Container set to the righ…](https://github.com/bitnami/charts/pull/5957) on [bitnami/charts](https://github.com/bitnami/charts) (3 years ago)
 
 #### ⭐ Recent Stars
 
