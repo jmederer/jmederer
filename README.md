@@ -15,7 +15,7 @@ Hi, welcome to my GitHub profile! 👋
 
 #### 🔨 My recent Pull Requests
 
-- [feat(token): automountServiceAccountToken set hard to true on deployment](https://github.com/kubernetes-sigs/descheduler/pull/1641) on [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) (6 days ago)
+- [feat(token): automountServiceAccountToken set hard to true on deployment](https://github.com/kubernetes-sigs/descheduler/pull/1641) on [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) (1 week ago)
 - [[bitnami/cassandra] Disable Prompt at keystoreimport (init-certs)](https://github.com/bitnami/charts/pull/15803) on [bitnami/charts](https://github.com/bitnami/charts) (2 years ago)
 - [[bitnami/cassandra] set sizeLimit only for certs-shared emptyDir](https://github.com/bitnami/charts/pull/15315) on [bitnami/charts](https://github.com/bitnami/charts) (2 years ago)
 - [[bitnami/cassandra] cassandra.yaml changed from 4 Spaces to 2 Spaces in V4.1](https://github.com/bitnami/containers/pull/21215) on [bitnami/containers](https://github.com/bitnami/containers) (2 years ago)
@@ -33,7 +33,7 @@ Hi, welcome to my GitHub profile! 👋
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS. (2 years ago)
 - [audiconnect/audi_connect_ha](https://github.com/audiconnect/audi_connect_ha) - Adds an audi connect integration to home assistant (2 years ago)
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals (2 years ago)
-- [TannerGabriel/learning-go](https://github.com/TannerGabriel/learning-go) - Projects, Algorithms and data structures implemented in Golang with explanations and links to further readings (2 years ago)
+- [TannerGabriel/learning-go](https://github.com/TannerGabriel/learning-go) - Projects, Algorithms and data structures implemented in Golang with explanations and links to further readings (3 years ago)
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at (5 years ago)
 - [k8s-nue-meetup/talks](https://github.com/k8s-nue-meetup/talks) - meta repository for all talks (6 years ago)
 - [stesie/kube-workshop](https://github.com/stesie/kube-workshop) -  (6 years ago)
