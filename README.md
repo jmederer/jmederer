@@ -13,7 +13,7 @@ Hi, welcome to my GitHub profile! 👋
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) ([descheduler-helm-chart-0.33.0](https://github.com/kubernetes-sigs/descheduler/releases/tag/descheduler-helm-chart-0.33.0), 4 months ago) - Descheduler for Kubernetes
+- [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) ([descheduler-helm-chart-0.33.0](https://github.com/kubernetes-sigs/descheduler/releases/tag/descheduler-helm-chart-0.33.0), 5 months ago) - Descheduler for Kubernetes
 
 #### 🔨 My recent Pull Requests
 
