@@ -44,7 +44,7 @@ Hi, welcome to my GitHub profile! 👋
 #### 👯 Check out some of my recent followers
 
 - [kirkanos](https://github.com/kirkanos)
-- [ph311o](https://github.com/ph311o)
+- [kritzeljan](https://github.com/kritzeljan)
 - [nce](https://github.com/nce)
 - [nikolausschueler](https://github.com/nikolausschueler)
 - [mcsage](https://github.com/mcsage)
