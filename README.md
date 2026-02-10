@@ -37,7 +37,7 @@ Hi, welcome to my GitHub profile! 👋
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals (3 years ago)
 - [TannerGabriel/learning-go](https://github.com/TannerGabriel/learning-go) - Projects, Algorithms and data structures implemented in Golang with explanations and links to further readings (3 years ago)
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at (6 years ago)
-- [k8s-nue-meetup/talks](https://github.com/k8s-nue-meetup/talks) - meta repository for all talks (6 years ago)
+- [k8s-nue-meetup/talks](https://github.com/k8s-nue-meetup/talks) - meta repository for all talks (7 years ago)
 - [stesie/kube-workshop](https://github.com/stesie/kube-workshop) -  (7 years ago)
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands (7 years ago)
 
