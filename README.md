@@ -9,7 +9,6 @@ Hi, welcome to my GitHub profile! 👋
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) - Descheduler for Kubernetes (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
