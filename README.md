@@ -28,7 +28,7 @@ Hi, welcome to my GitHub profile! 👋
 
 #### ⭐ Recent Stars
 
-- [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) - Unofficial EUDI Wallet Dev Toolkit - Fully functional and compliant testing wallet plus other useful tools (3 days ago)
+- [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) - Unofficial EUDI Wallet Dev Toolkit - Fully functional and compliant testing wallet plus other useful tools (4 days ago)
 - [Blackymas/NSPanel_HA_Blueprint](https://github.com/Blackymas/NSPanel_HA_Blueprint) - This allows you to configure your complete NSPanel via Blueprint with UI and without changing anything in the code (2 years ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (3 years ago)
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS. (3 years ago)
