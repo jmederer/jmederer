@@ -20,7 +20,7 @@ Hi, welcome to my GitHub profile! 👋
 - [[bitnami/cassandra] set sizeLimit only for certs-shared emptyDir](https://github.com/bitnami/charts/pull/15315) on [bitnami/charts](https://github.com/bitnami/charts) (3 years ago)
 - [[bitnami/cassandra] cassandra.yaml changed from 4 Spaces to 2 Spaces in V4.1](https://github.com/bitnami/containers/pull/21215) on [bitnami/containers](https://github.com/bitnami/containers) (3 years ago)
 - [[bitnami/cassandra] ReadinessProbes Timeouts for Metrics Container are now configurable](https://github.com/bitnami/charts/pull/12351) on [bitnami/charts](https://github.com/bitnami/charts) (3 years ago)
-- [[bitnami/cassandra] metrics Container - extraVolumeMounts option added](https://github.com/bitnami/charts/pull/12231) on [bitnami/charts](https://github.com/bitnami/charts) (3 years ago)
+- [[bitnami/cassandra] metrics Container - extraVolumeMounts option added](https://github.com/bitnami/charts/pull/12231) on [bitnami/charts](https://github.com/bitnami/charts) (4 years ago)
 - [[bitnami/cassandra] Enable/Disable automountServiceAccountToken for STS](https://github.com/bitnami/charts/pull/9661) on [bitnami/charts](https://github.com/bitnami/charts) (4 years ago)
 - [[bitnami/thanos] added Parameter for automountServiceAccountToken on …](https://github.com/bitnami/charts/pull/9590) on [bitnami/charts](https://github.com/bitnami/charts) (4 years ago)
 - [Added required resourceName to Role](https://github.com/bitnami/sealed-secrets/pull/745) on [bitnami/sealed-secrets](https://github.com/bitnami/sealed-secrets) (4 years ago)
@@ -28,7 +28,7 @@ Hi, welcome to my GitHub profile! 👋
 
 #### ⭐ Recent Stars
 
-- [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) - Unofficial EUDI Wallet Dev Toolkit - Fully functional and compliant testing wallet plus other useful tools (5 days ago)
+- [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) - Unofficial EUDI Wallet Dev Toolkit - Fully functional and compliant testing wallet plus other useful tools (6 days ago)
 - [Blackymas/NSPanel_HA_Blueprint](https://github.com/Blackymas/NSPanel_HA_Blueprint) - This allows you to configure your complete NSPanel via Blueprint with UI and without changing anything in the code (2 years ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (3 years ago)
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS. (3 years ago)
