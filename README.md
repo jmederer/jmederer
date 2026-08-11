@@ -24,11 +24,11 @@ Hi, welcome to my GitHub profile! 👋
 - [[bitnami/cassandra] Enable/Disable automountServiceAccountToken for STS](https://github.com/bitnami/charts/pull/9661) on [bitnami/charts](https://github.com/bitnami/charts) (4 years ago)
 - [[bitnami/thanos] added Parameter for automountServiceAccountToken on …](https://github.com/bitnami/charts/pull/9590) on [bitnami/charts](https://github.com/bitnami/charts) (4 years ago)
 - [Added required resourceName to Role](https://github.com/bitnami/sealed-secrets/pull/745) on [bitnami/sealed-secrets](https://github.com/bitnami/sealed-secrets) (4 years ago)
-- [[bitnami/drupal] Fix Variable for existing Secret of Drupal app](https://github.com/bitnami/charts/pull/7409) on [bitnami/charts](https://github.com/bitnami/charts) (4 years ago)
+- [[bitnami/drupal] Fix Variable for existing Secret of Drupal app](https://github.com/bitnami/charts/pull/7409) on [bitnami/charts](https://github.com/bitnami/charts) (5 years ago)
 
 #### ⭐ Recent Stars
 
-- [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) - Unofficial EUDI Wallet Dev Toolkit - Fully functional and compliant testing wallet plus other useful tools (6 days ago)
+- [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) - Unofficial EUDI Wallet Dev Toolkit - Fully functional and compliant testing wallet plus other useful tools (1 week ago)
 - [Blackymas/NSPanel_HA_Blueprint](https://github.com/Blackymas/NSPanel_HA_Blueprint) - This allows you to configure your complete NSPanel via Blueprint with UI and without changing anything in the code (2 years ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (3 years ago)
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS. (3 years ago)
