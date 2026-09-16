@@ -15,6 +15,8 @@ Hi, welcome to my GitHub profile! 👋
 
 #### 🔨 My recent Pull Requests
 
+- [Add optional automountServiceAccountToken support to common ServiceAccount](https://github.com/k8ssandra/k8ssandra-operator/pull/1794) on [k8ssandra/k8ssandra-operator](https://github.com/k8ssandra/k8ssandra-operator) (today)
+- [Add optional automountServiceAccountToken support to common ServiceAccount](https://github.com/k8ssandra/k8ssandra/pull/1727) on [k8ssandra/k8ssandra](https://github.com/k8ssandra/k8ssandra) (today)
 - [feat(token): automountServiceAccountToken set hard to true on deployment](https://github.com/kubernetes-sigs/descheduler/pull/1641) on [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) (2 years ago)
 - [[bitnami/cassandra] Disable Prompt at keystoreimport (init-certs)](https://github.com/bitnami/charts/pull/15803) on [bitnami/charts](https://github.com/bitnami/charts) (3 years ago)
 - [[bitnami/cassandra] set sizeLimit only for certs-shared emptyDir](https://github.com/bitnami/charts/pull/15315) on [bitnami/charts](https://github.com/bitnami/charts) (3 years ago)
@@ -23,8 +25,6 @@ Hi, welcome to my GitHub profile! 👋
 - [[bitnami/cassandra] metrics Container - extraVolumeMounts option added](https://github.com/bitnami/charts/pull/12231) on [bitnami/charts](https://github.com/bitnami/charts) (4 years ago)
 - [[bitnami/cassandra] Enable/Disable automountServiceAccountToken for STS](https://github.com/bitnami/charts/pull/9661) on [bitnami/charts](https://github.com/bitnami/charts) (4 years ago)
 - [[bitnami/thanos] added Parameter for automountServiceAccountToken on …](https://github.com/bitnami/charts/pull/9590) on [bitnami/charts](https://github.com/bitnami/charts) (4 years ago)
-- [Added required resourceName to Role](https://github.com/bitnami/sealed-secrets/pull/745) on [bitnami/sealed-secrets](https://github.com/bitnami/sealed-secrets) (4 years ago)
-- [[bitnami/drupal] Fix Variable for existing Secret of Drupal app](https://github.com/bitnami/charts/pull/7409) on [bitnami/charts](https://github.com/bitnami/charts) (5 years ago)
 
 #### ⭐ Recent Stars
 
