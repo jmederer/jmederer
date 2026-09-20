@@ -9,17 +9,17 @@ Hi, welcome to my GitHub profile! 👋
 
 #### 👷 Check out what I'm currently working on
 
-- [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) - Unofficial EUDI Wallet Dev Toolkit - Fully functional and compliant testing wallet plus other useful tools (2 days ago)
+- [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) - Unofficial EUDI Wallet Dev Toolkit - Fully functional and compliant testing wallet plus other useful tools (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) ([v2.3.7-2](https://github.com/dominikschlosser/eudi-dev/releases/tag/v2.3.7-2), 1 day ago) - Unofficial EUDI Wallet Dev Toolkit - Fully functional and compliant testing wallet plus other useful tools
+- [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) ([v2.3.7-2](https://github.com/dominikschlosser/eudi-dev/releases/tag/v2.3.7-2), 2 days ago) - Unofficial EUDI Wallet Dev Toolkit - Fully functional and compliant testing wallet plus other useful tools
 
 #### 🔨 My recent Pull Requests
 
-- [add shellcheck to *.sh](https://github.com/dominikschlosser/eudi-dev/pull/20) on [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) (2 days ago)
-- [Add optional automountServiceAccountToken support to common ServiceAccount](https://github.com/k8ssandra/k8ssandra-operator/pull/1794) on [k8ssandra/k8ssandra-operator](https://github.com/k8ssandra/k8ssandra-operator) (3 days ago)
-- [Add optional automountServiceAccountToken support to common ServiceAccount](https://github.com/k8ssandra/k8ssandra/pull/1727) on [k8ssandra/k8ssandra](https://github.com/k8ssandra/k8ssandra) (3 days ago)
+- [add shellcheck to *.sh](https://github.com/dominikschlosser/eudi-dev/pull/20) on [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) (3 days ago)
+- [Add optional automountServiceAccountToken support to common ServiceAccount](https://github.com/k8ssandra/k8ssandra-operator/pull/1794) on [k8ssandra/k8ssandra-operator](https://github.com/k8ssandra/k8ssandra-operator) (4 days ago)
+- [Add optional automountServiceAccountToken support to common ServiceAccount](https://github.com/k8ssandra/k8ssandra/pull/1727) on [k8ssandra/k8ssandra](https://github.com/k8ssandra/k8ssandra) (4 days ago)
 - [feat(token): automountServiceAccountToken set hard to true on deployment](https://github.com/kubernetes-sigs/descheduler/pull/1641) on [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) (2 years ago)
 - [[bitnami/cassandra] Disable Prompt at keystoreimport (init-certs)](https://github.com/bitnami/charts/pull/15803) on [bitnami/charts](https://github.com/bitnami/charts) (3 years ago)
 - [[bitnami/cassandra] set sizeLimit only for certs-shared emptyDir](https://github.com/bitnami/charts/pull/15315) on [bitnami/charts](https://github.com/bitnami/charts) (3 years ago)
