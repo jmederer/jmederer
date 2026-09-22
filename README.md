@@ -9,11 +9,13 @@ Hi, welcome to my GitHub profile! 👋
 
 #### 👷 Check out what I'm currently working on
 
+- [k8ssandra/k8ssandra](https://github.com/k8ssandra/k8ssandra) - K8ssandra is an open-source distribution of Apache Cassandra for Kubernetes including API services and operational tooling. (today)
 - [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) - Unofficial EUDI Wallet Dev Toolkit - Fully functional and compliant testing wallet plus other useful tools (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
 - [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) ([v2.3.7-2](https://github.com/dominikschlosser/eudi-dev/releases/tag/v2.3.7-2), 4 days ago) - Unofficial EUDI Wallet Dev Toolkit - Fully functional and compliant testing wallet plus other useful tools
+- [k8ssandra/k8ssandra](https://github.com/k8ssandra/k8ssandra) ([v1.5.2](https://github.com/k8ssandra/k8ssandra/releases/tag/v1.5.2), 3 years ago) - K8ssandra is an open-source distribution of Apache Cassandra for Kubernetes including API services and operational tooling.
 
 #### 🔨 My recent Pull Requests
 
