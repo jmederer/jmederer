@@ -10,16 +10,16 @@ Hi, welcome to my GitHub profile! 👋
 #### 👷 Check out what I'm currently working on
 
 - [k8ssandra/k8ssandra](https://github.com/k8ssandra/k8ssandra) - K8ssandra is an open-source distribution of Apache Cassandra for Kubernetes including API services and operational tooling. (1 week ago)
-- [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) - Unofficial EUDI Wallet Dev Toolkit - Fully functional and compliant testing wallet plus other useful tools (1 week ago)
+- [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) - Unofficial EUDI Wallet Dev Toolkit - Fully functional and compliant testing wallet plus other useful tools (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) ([v2.4.4](https://github.com/dominikschlosser/eudi-dev/releases/tag/v2.4.4), 2 days ago) - Unofficial EUDI Wallet Dev Toolkit - Fully functional and compliant testing wallet plus other useful tools
+- [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) ([v2.4.4](https://github.com/dominikschlosser/eudi-dev/releases/tag/v2.4.4), 3 days ago) - Unofficial EUDI Wallet Dev Toolkit - Fully functional and compliant testing wallet plus other useful tools
 - [k8ssandra/k8ssandra](https://github.com/k8ssandra/k8ssandra) ([v1.5.2](https://github.com/k8ssandra/k8ssandra/releases/tag/v1.5.2), 3 years ago) - K8ssandra is an open-source distribution of Apache Cassandra for Kubernetes including API services and operational tooling.
 
 #### 🔨 My recent Pull Requests
 
-- [add shellcheck to *.sh](https://github.com/dominikschlosser/eudi-dev/pull/20) on [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) (1 week ago)
+- [add shellcheck to *.sh](https://github.com/dominikschlosser/eudi-dev/pull/20) on [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) (2 weeks ago)
 - [Add optional automountServiceAccountToken support to common ServiceAccount](https://github.com/k8ssandra/k8ssandra-operator/pull/1794) on [k8ssandra/k8ssandra-operator](https://github.com/k8ssandra/k8ssandra-operator) (2 weeks ago)
 - [Add optional automountServiceAccountToken support to common ServiceAccount](https://github.com/k8ssandra/k8ssandra/pull/1727) on [k8ssandra/k8ssandra](https://github.com/k8ssandra/k8ssandra) (2 weeks ago)
 - [feat(token): automountServiceAccountToken set hard to true on deployment](https://github.com/kubernetes-sigs/descheduler/pull/1641) on [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) (2 years ago)
