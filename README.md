@@ -10,16 +10,16 @@ Hi, welcome to my GitHub profile! 👋
 #### 👷 Check out what I'm currently working on
 
 - [k8ssandra/k8ssandra](https://github.com/k8ssandra/k8ssandra) - K8ssandra is an open-source distribution of Apache Cassandra for Kubernetes including API services and operational tooling. (2 weeks ago)
-- [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) - Web/CLI testing wallet for the EUDI ecosystem. No phone required. (3 weeks ago)
+- [eudi-dev/eudi-dev](https://github.com/eudi-dev/eudi-dev) - Web/CLI testing wallet for the EUDI ecosystem. No phone required. (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) ([v3.0.0-beta.3](https://github.com/dominikschlosser/eudi-dev/releases/tag/v3.0.0-beta.3), 2 days ago) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
+- [eudi-dev/eudi-dev](https://github.com/eudi-dev/eudi-dev) ([v2.7.1](https://github.com/eudi-dev/eudi-dev/releases/tag/v2.7.1), today) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
 - [k8ssandra/k8ssandra](https://github.com/k8ssandra/k8ssandra) ([v1.5.2](https://github.com/k8ssandra/k8ssandra/releases/tag/v1.5.2), 3 years ago) - K8ssandra is an open-source distribution of Apache Cassandra for Kubernetes including API services and operational tooling.
 
 #### 🔨 My recent Pull Requests
 
-- [add shellcheck to *.sh](https://github.com/dominikschlosser/eudi-dev/pull/20) on [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) (3 weeks ago)
+- [add shellcheck to *.sh](https://github.com/eudi-dev/eudi-dev/pull/20) on [eudi-dev/eudi-dev](https://github.com/eudi-dev/eudi-dev) (3 weeks ago)
 - [Add optional automountServiceAccountToken support to common ServiceAccount](https://github.com/k8ssandra/k8ssandra-operator/pull/1794) on [k8ssandra/k8ssandra-operator](https://github.com/k8ssandra/k8ssandra-operator) (3 weeks ago)
 - [Add optional automountServiceAccountToken support to common ServiceAccount](https://github.com/k8ssandra/k8ssandra/pull/1727) on [k8ssandra/k8ssandra](https://github.com/k8ssandra/k8ssandra) (3 weeks ago)
 - [feat(token): automountServiceAccountToken set hard to true on deployment](https://github.com/kubernetes-sigs/descheduler/pull/1641) on [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) (2 years ago)
@@ -32,7 +32,7 @@ Hi, welcome to my GitHub profile! 👋
 
 #### ⭐ Recent Stars
 
-- [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) - Web/CLI testing wallet for the EUDI ecosystem. No phone required. (2 months ago)
+- [eudi-dev/eudi-dev](https://github.com/eudi-dev/eudi-dev) - Web/CLI testing wallet for the EUDI ecosystem. No phone required. (2 months ago)
 - [Blackymas/NSPanel_HA_Blueprint](https://github.com/Blackymas/NSPanel_HA_Blueprint) - This allows you to configure your complete NSPanel via Blueprint with UI and without changing anything in the code (2 years ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (3 years ago)
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS. (https://gogh-co.github.io/Gogh/) (3 years ago)
