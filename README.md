@@ -14,7 +14,7 @@ Hi, welcome to my GitHub profile! 👋
 
 #### 🔭 Latest releases I've contributed to
 
-- [eudi-dev/eudi-dev](https://github.com/eudi-dev/eudi-dev) ([v3.9.2](https://github.com/eudi-dev/eudi-dev/releases/tag/v3.9.2), 1 day ago) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
+- [eudi-dev/eudi-dev](https://github.com/eudi-dev/eudi-dev) ([v3.9.3](https://github.com/eudi-dev/eudi-dev/releases/tag/v3.9.3), today) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
 - [k8ssandra/k8ssandra](https://github.com/k8ssandra/k8ssandra) ([v1.5.2](https://github.com/k8ssandra/k8ssandra/releases/tag/v1.5.2), 4 years ago) - K8ssandra is an open-source distribution of Apache Cassandra for Kubernetes including API services and operational tooling.
 
 #### 🔨 My recent Pull Requests
